@@ -1,0 +1,6 @@
+.review-container{
+    display: flex;
+}
+.review{
+    width: 70%;
+}

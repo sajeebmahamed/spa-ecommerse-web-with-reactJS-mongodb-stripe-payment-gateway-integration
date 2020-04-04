@@ -1,0 +1,11 @@
+.header-container{
+    display: flex;
+    background-color: indianred;
+}
+.logo img{
+    width: 15%;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+}

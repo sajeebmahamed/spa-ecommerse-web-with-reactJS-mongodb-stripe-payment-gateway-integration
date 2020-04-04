@@ -1,0 +1,10 @@
+.product-container{
+    display: flex;
+}
+.product-img{
+    margin: 0px 10px;
+}
+.main-btn{
+    padding: 8px 12px;
+    background-color: goldenrod;
+}
