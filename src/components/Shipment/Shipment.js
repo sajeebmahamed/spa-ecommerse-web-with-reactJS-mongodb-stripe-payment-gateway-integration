@@ -28,7 +28,7 @@ const Shipment = () => {
             shipment: shipInfo,
             payment: payment
         };
-        fetch('http://localhost:4200/placeOrder', {
+        fetch('https://spa-ecommerse-website.herokuapp.com/placeOrder', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

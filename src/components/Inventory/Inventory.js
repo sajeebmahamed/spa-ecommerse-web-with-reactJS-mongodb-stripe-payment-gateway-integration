@@ -5,7 +5,7 @@ const Inventory = () => {
     const handleInventor = () =>{
         // const product = fakeData[0];
         // console.log('before post', product);
-        // fetch('http://localhost:4200/addProduct', {
+        // fetch('https://spa-ecommerse-website.herokuapp.com/addProduct', {
         //     method:'POST',
         //     headers:{
         //         'Content-Type' : 'application/json'
